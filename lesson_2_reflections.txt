@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+when we initialize a repository ,it creates a .git folder .In order to make the repository we need to initialze a repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans: Staging area includes only those files which are ready to commit 
+while in working directory we have all the updated files with all the changes. and Repository doesnt have the updated version of files which are there in working directory.
